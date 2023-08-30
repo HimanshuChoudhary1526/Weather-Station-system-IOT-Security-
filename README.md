@@ -1,1 +1,1 @@
-
+It is the part of my Research and Development project , In this project , I have implementation the all hardware along with self made wind-speed sensor using Hall sensor . This station successfully able to detected the Temperature , Humidity, Rain Speed , Atmospheric Sensor and Sunlight along with wind-speed, and Successfully fetch the data on self made website.
